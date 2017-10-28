@@ -3,13 +3,13 @@ a simple web app for viewing the status of multiple printers in a single page
 
 # Installation
 
-Go to [quillford.github.io/PrinterView](http://quillford.github.io/PrinterView/)
+Go to [raykholo.github.io/PrinterView](http://raykholo.github.io/PrinterView/)
 
-[Desktop](https://github.com/quillford/PrinterView/wiki/Desktop-Setup)
+[Desktop](https://github.com/raykholo/PrinterView/wiki/Desktop-Setup)
 
-[iOS](https://github.com/quillford/PrinterView/wiki/iOS-Setup)
+[iOS](https://github.com/raykholo/PrinterView/wiki/iOS-Setup)
 
-[Android](https://github.com/quillford/PrinterView/wiki/Android-Setup)
+[Android](https://github.com/raykholo/PrinterView/wiki/Android-Setup)
 
 # Acknowledgements
 PrinterView uses the following:
